@@ -1,0 +1,2 @@
+# Preserve exact backup bytes, including configuration and documentation.
+* -text

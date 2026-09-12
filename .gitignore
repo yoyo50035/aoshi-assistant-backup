@@ -1,0 +1,19 @@
+# Local credentials, character data, and generated files
+account.ini
+accounts/
+cache/
+reports/
+logs/
+*.log
+*.tmp
+*.dmp
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Development and rollback files remain local
+助手開發備份/
+repair-log-tab/
