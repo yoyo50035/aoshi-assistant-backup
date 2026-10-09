@@ -9,6 +9,7 @@
 - 傲視小助手.exe 與 .config 設定。
 - 主程式所需 DLL，包括繁體化元件 TraditionalUiRuntime.dll 、日誌重繪元件 LogPageRepaint.dll 及 NianAutomation.dll。
 - runtimes 內的 x86 WebView2 載入元件。
+- Win10_Flash_ActiveX_移植到_Win11_操作過程.docx 操作文件。
 - 原使用說明，以及 SHA256SUMS.txt 檔案校驗清單。
 
 ## 刻意排除
